@@ -1,0 +1,1 @@
+alter table record drop constraint FK_book_id

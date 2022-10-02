@@ -1,0 +1,1 @@
+alter table book drop constraint UQ_book_isbn
